@@ -279,7 +279,7 @@ Happy coding!
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - [Calculating BMI](https://www.cdc.gov/nccdphp/dnpao/growthcharts/training/bmiage/page5_2.html#:~:text=Formula%3A%20weight%20(lb)%20%2F,a%20conversion%20factor%20of%20703.)
 - [Python Best Practices] - Beginner's Step-by-Step Guide Coding Course - Penguin Randomhouse Publishing
-- [Bycription]( https://m.youtube.com/watch?v=gKi7SJDfLYk&feature=youtu.be)
-              ( https://m.youtube.com/watch?v=xbdst8LkMC8&feature=youtu.be)
-              ( https://m.youtube.com/watch?v=9yIrM7eZwUE&feature=youtu.be)
+- [Bycription](https://m.youtube.com/watch?v=gKi7SJDfLYk&feature=youtu.be)
+- [Bycription](https://m.youtube.com/watch?v=xbdst8LkMC8&feature=youtu.be)
+- [Bycription](https://m.youtube.com/watch?v=9yIrM7eZwUE&feature=youtu.be)
 - [Artwork](https://emojicombos.com)
